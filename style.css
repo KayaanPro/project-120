@@ -1,0 +1,19 @@
+body{
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+#google_lens-img{
+    height: 20%;
+}
+
+#div1{
+    background-color: rgb(170, 170, 170);
+    border-radius: 18px;
+    width: 100%;
+    box-shadow: 5px 5px 5px  rgb(208, 208, 208);
+}
+
+#tesla_car_img{
+    border-radius: 15px;
+    height: 300px;
+}
